@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lgmtask02/my-app/static/css/main.e6c13ad2.css",
+    "main.js": "/lgmtask02/my-app/static/js/main.8797b0db.js",
+    "index.html": "/lgmtask02/my-app/index.html",
+    "main.e6c13ad2.css.map": "/lgmtask02/my-app/static/css/main.e6c13ad2.css.map",
+    "main.8797b0db.js.map": "/lgmtask02/my-app/static/js/main.8797b0db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8797b0db.js"
+  ]
+}
